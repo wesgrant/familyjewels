@@ -1,0 +1,16 @@
+{
+  "name": "family_jewels",
+  "version": "1.0.0",
+  "description": "Jewelry Website for Mom",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wes Grant",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "morgan": "^1.7.0",
+    "react": "^15.4.0"
+  }
+}
